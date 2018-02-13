@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
 
-class Solution {
+class Calculator {
     public int calculate(String s) {
         char[] c = s.toCharArray();
         Queue<Element> elements = new LinkedList<>();
