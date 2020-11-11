@@ -1,2 +1,2 @@
 # Java
-some java file in CSC115
+Coursework implemented in Java in CSC115
